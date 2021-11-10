@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Zdut0Vs5a0NHlE5ZV0gzYB9VDD2jeE/A84rrUn3EE2mhef8yol/TJgDpXt0u7sqqaX+l2HQhom0/GZPiAi8aTw==",
+  "dgSpecHash": "Sf/Lz/4czs0+hqDb4DWYhF58yB9N6FkWJxlZsPRmkCCcMnn0gvyyv/XVarr9I9KEiy4qtPOnQIhHMge04Dn2hQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Afreen\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Afreen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Afreen\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
   ],
   "logs": []
