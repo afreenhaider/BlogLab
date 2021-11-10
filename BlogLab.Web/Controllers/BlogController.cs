@@ -30,7 +30,7 @@ namespace BlogLab.Web.Controllers
         public async Task<ActionResult<Blog>> Create(BlogCreate blogCreate)
         {
             int applicationUserId = int.Parse(User.Claims.First(i => i.Type == JwtRegisteredClaimNames.NameId).Value);
-
+            //
             if (blogCreate.PhotoId.HasValue)
             {
                 var photo = await _photoRepository.GetAsync(blogCreate.PhotoId.Value);

@@ -1,4 +1,5 @@
 
+using BlogLab.Identity;
 using BlogLab.Models.Account;
 using BlogLab.Models.Settings;
 using BlogLab.Repository;
