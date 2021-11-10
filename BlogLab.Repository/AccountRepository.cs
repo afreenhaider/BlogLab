@@ -37,7 +37,7 @@ namespace BlogLab.Repository
                 user.Username,
                 user.NormalizedUsername,
                 user.Email,
-                user.NormailizedEmail,
+                user.NormalizedEmail,
                 user.Fullname,
                 user.PasswordHash
                 );

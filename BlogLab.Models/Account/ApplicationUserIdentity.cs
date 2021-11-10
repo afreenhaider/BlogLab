@@ -14,7 +14,7 @@ namespace BlogLab.Models.Account
 
         public string Email { get; set; }
 
-        public string NormailizedEmail { get; set; }
+        public string NormalizedEmail { get; set; }
 
         public string Fullname { get; set; }
         public string PasswordHash { get; set; }
