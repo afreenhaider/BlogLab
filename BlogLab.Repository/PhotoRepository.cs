@@ -36,7 +36,7 @@ namespace BlogLab.Repository
             return affectedRows;
         }
 
-        public async Task<List<Photo>> GetAllByUserAsync(int applicationUserId)
+        public async Task<List<Photo>> GetAllByUserIdAsync(int applicationUserId)
         {
             IEnumerable<Photo> photos;
 
